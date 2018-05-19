@@ -11,5 +11,10 @@ if (Object.defineProperty) {
     },
     enumerable: true
   })
+
+  global.isNaO = function (isItAnObject) {
+    if (isNaN(isItAnObject)) return false
+    return isItAnObject !== isItAnObject
+  }
 }
 
