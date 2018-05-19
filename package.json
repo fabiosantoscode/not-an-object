@@ -1,0 +1,19 @@
+{
+  "name": "not-an-object",
+  "version": "1.0.0",
+  "description": "An awesome library brought to you by the fabastic fabs. Try it out!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiosantoscode/not-an-object.git"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/fabiosantoscode/not-an-object/issues"
+  },
+  "homepage": "https://github.com/fabiosantoscode/not-an-object#readme"
+}
