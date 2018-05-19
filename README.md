@@ -10,6 +10,8 @@ It complements the already awesome (awesome for being omnipresent and just so da
         console.log(typeof NaO)  // object
         console.log(Number(NaO))  // {}
 
+        console.log(isNaO(NaO))  // false  // known bug
+
 
 # Graceful fallback from ES5.1
 
